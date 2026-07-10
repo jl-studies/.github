@@ -4,9 +4,9 @@ This is a collection of exams and study projects I have worked on.
 
 ## Socials
 
-[Personal GitHub profile](https://github.com/Nu11ify)
-
 [LinkedIn](https://www.linkedin.com/in/johnsl/)
+
+[Personal GitHub profile](https://github.com/Nu11ify)
 
 
 ## Education
@@ -25,6 +25,7 @@ This is a collection of exams and study projects I have worked on.
 
 ### Noroff Vocational School - IT and Network Security
 2020 to 2024 - Part time online studies
+
 
 [FS1SP1131 - Study Project 1](https://github.com/jl-studies/noroff-NSA_FS1SP1131) - Grade: A
 
