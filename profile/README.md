@@ -2,6 +2,8 @@
 
 This is a collection of exams and study projects I have worked on.
 
+###### THIS IS A WORK IN PROGRESS.
+
 ## Socials
 
 [LinkedIn](https://www.linkedin.com/in/johnsl/)
