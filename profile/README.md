@@ -2,7 +2,8 @@
 
 This is a collection of exams and study projects I have worked on.
 
-###### THIS IS A WORK IN PROGRESS.
+Not all group exams are listed here. I have chosen to only upload a group exam if I have received approval from every group member. If I am unable to obtain everyones consent, I do not upload the exam. This is done out of respect for other group members.
+
 
 ## Socials
 
@@ -16,13 +17,25 @@ This is a collection of exams and study projects I have worked on.
 2024 to 2027 (Ongoing) - Full time
 
 
-[ex1](x)
+2024
+[DB1102 - Databases - Grade: Pass](https://github.com/jl-studies/hk-DB1102-Databases)
+[PGR112 - Object Oriented Programming - Grade: Pass](https://github.com/jl-studies/hk-PGR112-Object_Oriented_Programming
+)
+[TK2100 - Information Risk and Security - Grade: Pass](https://github.com/jl-studies/hk-TK2100_Information_Risk_and_Security)
 
-[ex2](x)
 
-[ex3](x)
+2025
+[ETH2100 - Ethical Hacking - Grade: A](https://github.com/jl-studies/hk-ETH2100-Ethical_Hacking)
+[SKY2100 - Cloud Security - Grade: C](https://github.com/jl-studies/hk-SKY2100-Cloud_Security)
 
-[ex4](x)
+[CYB2100 - Cyberdefence - Grade: B](https://github.com/jl-studies/hk-CYB2100-Cyberdefence)
+
+2026
+[PGR107 - Python Programming - Grade: A](https://github.com/jl-studies/hk-PGR107-Python_Programming)
+[PG4200 - Algorithms and Data Structures - Grade: A](https://github.com/jl-studies/hk-PG4200-Algorithms_and_Data_Structures
+)
+[PG3401 - Programming in C for Linux - Grade: B](https://github.com/jl-studies/hk-PG3401-Programming_in-C_for_Linux)
+[BU5300 - IT Project Management - Grade: B]()(https://github.com/jl-studies/hk-BU5300-IT_Project_Management)
 
 
 ### Noroff Vocational School - IT and Network Security
