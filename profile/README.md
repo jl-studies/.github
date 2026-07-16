@@ -4,7 +4,7 @@ This is a collection of exams and study projects I have worked on.
 
 Not all group exams are listed here. I have chosen to only upload a group exam if I have received approval from every group member. If I am unable to obtain everyone's consent, I do not upload the exam. This is done out of respect for other group members.
 
-**THIS IS CURRENTLY A WORK IN PROGRESS AND NOT ALL EXAMS ARE FULLY UPLOADED.**
+Please note that all exams available should be uploaded as of 16/07/2026.
 
 
 ## Socials
