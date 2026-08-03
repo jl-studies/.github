@@ -13,6 +13,9 @@ Please note that all exams available should be uploaded as of 16/07/2026.
 
 [Personal GitHub profile](https://github.com/Nu11ify)
 
+[TryHackMe](https://tryhackme.com/p/Joohhnn)
+
+
 
 ## Education
 ### Kristiania University of Applied Sciences - Cybersecurity Bachelor
